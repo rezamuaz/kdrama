@@ -1,0 +1,683 @@
+[
+  {
+    "status": 1,
+    "msg": "Sukses",
+    "data": {
+      "id": 1,
+      "title": "Goblin",
+      "keyword": [
+        " The Lonely, Shining Goblin",
+        "Guardian: The Lonely and Great God"
+      ],
+      "score": "8.1",
+      "type": "Drama",
+      "synopsis": "Kim Shin was once an unbeatable general in Goryeo's military who died a tragic death. He now possesses immortality but is tired of living while everyone else around him dies. For 900 years, Kim Shin has searched for his bride, a mortal who can pull out the sword and end his life. One day, he encounters Ji Eun Tak, a positive, upbeat high school student who can see the dead and has gone through tragic events, yet still stays strong. She claims to be the Goblin's bride who can end his immortal life, but what appears to be an easy task, only gets complicated, as the two fall in love.",
+      "image": "https://ik.imagekit.io/webart/kdrama/JkD8Xf_hFRUqbofL.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653364184139",
+      "negara": "korea selatan",
+      "duration": "1 jam 30 menit",
+      "status": "complete",
+      "trailer": "https://v.mydramalist.com/d0c/d0cefa43d15f7e4b74ae21595155ec91.mp4",
+      "director": ["Lee Eung Bok"],
+      "taxonomy": [
+        {
+          "id": 1,
+          "label": "Genres",
+          "terms": [
+            {
+              "id": 20,
+              "value": "Action",
+              "slug": "action"
+            },
+            {
+              "id": 21,
+              "value": "Adventure",
+              "slug": "adventure"
+            },
+            {
+              "id": 25,
+              "value": "Romance",
+              "slug": "romance"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Type",
+          "terms": [
+            {
+              "id": 1,
+              "value": "TV Show",
+              "slug": "tv-show"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Series",
+          "terms": [
+            {
+              "id": 1,
+              "value": "My Liberation Notes",
+              "slug": "my-liberation-notes"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "label": "Country",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Korea Selatan",
+              "slug": "korea-selatan"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "label": "Status",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Ongoing",
+              "slug": "ongoing"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "label": "Year",
+          "terms": [
+            {
+              "id": 1,
+              "value": "2020",
+              "slug": "2022"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "label": "Rating",
+          "terms": [
+            {
+              "id": 1,
+              "value": "R-17",
+              "slug": "r-17"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "label": "Hari",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Rabu",
+              "slug": "rabu"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "label": "Original Network",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Netflix",
+              "slug": "netflix"
+            },
+            {
+              "id": 2,
+              "value": "SBS",
+              "slug": "sbs"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "status": 1,
+    "msg": "Sukses",
+    "data": {
+      "id": 2,
+      "title": "Strong Woman Do Bong Soon",
+      "keyword": [
+        "Himsseonyeoja Dobongsun ",
+        "Powerful Woman Do Bong Soon",
+        "Strong Girl Do Bong Soon "
+      ],
+      "score": "8.1",
+      "type": "Drama",
+      "synopsis": "Do Bong Soon is a petite, unemployed woman who is honest and kind. She appears little and sweet on the outside, but she is in fact very, very strong. For generations in her family, the women have been gifted Herculean strength to use for the greater good. If abused, however, their power will be taken away.Whilst standing up for herself after gang members bully her, she finds herself approached by Ahn Min Hyuk, the handsome and somewhat childish CEO of Ainsoft, a gaming company. Ahn Min Hyuk, who holds a great distrust towards the police, witnessed the whole exchange of Bong Soon's superhuman strength, and now wants to employ her as a bodyguard after being threatened by an unknown enemy. Min Hyuk falls in love with super-strong Bong Soon at first sight, but there's a catch. Bong Soon has eyes for someone else; a police officer and childhood friend, In Guk Doo, whom she has known since high school.When chaos ensues after a series of kidnappings in Do Bong Soon's hometown of Dobong-dong, Dobong-gu, Bong Soon must decide whether to use her strength and stand up to evil, or play it safe and keep her powers hidden from the world. Combined with the love triangle she faces between In Guk Doo and Ahn Min Hyuk, as well as having to keep Min Hyuk safe, Bong Soon's life is thrown into turmoil. Can she use her strength for the greater good, or will it prove in the end to be too much?",
+      "image": "https://ik.imagekit.io/webart/kdrama/XZqYJf_qcknOHBWUI.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653364609256",
+      "negara": "korea selatan",
+      "duration": "1 jam 30 menit",
+      "status": "complete",
+      "trailer": "https://v.mydramalist.com/dbf/dbf32ab25d093aacdd59dd74587bc0b2.mp4",
+      "director": ["Lee Hyung Min"],
+      "taxonomy": [
+        {
+          "id": 1,
+          "label": "Genres",
+          "terms": [
+            {
+              "id": 20,
+              "value": "Action",
+              "slug": "action"
+            },
+            {
+              "id": 21,
+              "value": "Adventure",
+              "slug": "adventure"
+            },
+            {
+              "id": 25,
+              "value": "Romance",
+              "slug": "romance"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Type",
+          "terms": [
+            {
+              "id": 1,
+              "value": "TV Show",
+              "slug": "tv-show"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Series",
+          "terms": [
+            {
+              "id": 1,
+              "value": "My Liberation Notes",
+              "slug": "my-liberation-notes"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "label": "Country",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Korea Selatan",
+              "slug": "korea-selatan"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "label": "Status",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Ongoing",
+              "slug": "ongoing"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "label": "Year",
+          "terms": [
+            {
+              "id": 1,
+              "value": "2020",
+              "slug": "2022"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "label": "Rating",
+          "terms": [
+            {
+              "id": 1,
+              "value": "R-17",
+              "slug": "r-17"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "label": "Hari",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Rabu",
+              "slug": "rabu"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "label": "Original Network",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Netflix",
+              "slug": "netflix"
+            },
+            {
+              "id": 2,
+              "value": "SBS",
+              "slug": "sbs"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "status": 1,
+    "msg": "Sukses",
+    "data": {
+      "id": 3,
+      "title": "Descendants of the Sun",
+      "keyword": ["Taeyangeui Huye", "The Sun's Descendants", "Taeyangui Huye"],
+      "score": "8.1",
+      "type": "Drama",
+      "synopsis": "A love story that develops between a surgeon and a special forces officer.Kang Mo Yeon is a pretty and assertive woman who works as a cardiothoracic surgeon at Haesung Hospital. She isn't afraid to admit her mistakes and believes that capability overrides whatever connections you have. However, she is soon faced with the reality that she cannot advance with just capability. Her life is forever changed when she encounters Yoo Shi Jin, the Captain and team leader of the Alpha Team who cares more about protecting anybody in need of help as well as his country, even if it goes against the order of his superiors. This drama will tell of how they both bond together in a time of war and overcome the odds against them.",
+      "image": "https://ik.imagekit.io/webart/kdrama/vN26Zf_vV8yoXYAF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653364904349",
+      "negara": "korea selatan",
+      "duration": "1 jam 30 menit",
+      "status": "complete",
+      "trailer": "https://v.mydramalist.com/553/553c3741e8d893fe9789a3eb8a162821.mp4",
+      "director": ["Baek Sang Hoon", "Lee Eung Bok"],
+      "taxonomy": [
+        {
+          "id": 1,
+          "label": "Genres",
+          "terms": [
+            {
+              "id": 20,
+              "value": "Action",
+              "slug": "action"
+            },
+            {
+              "id": 21,
+              "value": "Adventure",
+              "slug": "adventure"
+            },
+            {
+              "id": 25,
+              "value": "Romance",
+              "slug": "romance"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Type",
+          "terms": [
+            {
+              "id": 1,
+              "value": "TV Show",
+              "slug": "tv-show"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Series",
+          "terms": [
+            {
+              "id": 1,
+              "value": "My Liberation Notes",
+              "slug": "my-liberation-notes"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "label": "Country",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Korea Selatan",
+              "slug": "korea-selatan"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "label": "Status",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Ongoing",
+              "slug": "ongoing"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "label": "Year",
+          "terms": [
+            {
+              "id": 1,
+              "value": "2020",
+              "slug": "2022"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "label": "Rating",
+          "terms": [
+            {
+              "id": 1,
+              "value": "R-17",
+              "slug": "r-17"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "label": "Hari",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Rabu",
+              "slug": "rabu"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "label": "Original Network",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Netflix",
+              "slug": "netflix"
+            },
+            {
+              "id": 2,
+              "value": "SBS",
+              "slug": "sbs"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "status": 1,
+    "msg": "Sukses",
+    "data": {
+      "id": 4,
+      "title": "W",
+      "keyword": ["W – Two Worlds", "W-두 개의 세계", "W – Two Worlds Apart"],
+      "score": "8.1",
+      "type": "Drama",
+      "synopsis": "Oh Sung Moo, the father of cardiothoracic surgeon Oh Yeon Joo, mysteriously goes missing while writing the last chapter of his webtoon'W'. Yeon Joo goes to his office looking, but a hand from his monitor suddenly pulls her in, and she finds herself on the rooftop of a building, next to a bloodied man. She manages to save the person, only to realize that he is Kang Cheol, the main character of her father's webtoon. Yeon Joo later discovers she can only enter and leave the webtoon depending on Kang Cheol's feelings.",
+      "image": "https://ik.imagekit.io/webart/kdrama/6wjE0_4f_7g4w62QcW.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653365270983",
+      "negara": "korea selatan",
+      "duration": "1 jam 30 menit",
+      "status": "complete",
+      "trailer": "https://v.mydramalist.com/b53/b53b8bcccc2850c4f7bc651343e63dc0.mp4",
+      "director": ["Jeong Dae Yun"],
+      "taxonomy": [
+        {
+          "id": 1,
+          "label": "Genres",
+          "terms": [
+            {
+              "id": 20,
+              "value": "Action",
+              "slug": "action"
+            },
+            {
+              "id": 21,
+              "value": "Adventure",
+              "slug": "adventure"
+            },
+            {
+              "id": 25,
+              "value": "Romance",
+              "slug": "romance"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Type",
+          "terms": [
+            {
+              "id": 1,
+              "value": "TV Show",
+              "slug": "tv-show"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Series",
+          "terms": [
+            {
+              "id": 1,
+              "value": "My Liberation Notes",
+              "slug": "my-liberation-notes"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "label": "Country",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Korea Selatan",
+              "slug": "korea-selatan"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "label": "Status",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Ongoing",
+              "slug": "ongoing"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "label": "Year",
+          "terms": [
+            {
+              "id": 1,
+              "value": "2020",
+              "slug": "2022"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "label": "Rating",
+          "terms": [
+            {
+              "id": 1,
+              "value": "R-17",
+              "slug": "r-17"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "label": "Hari",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Rabu",
+              "slug": "rabu"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "label": "Original Network",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Netflix",
+              "slug": "netflix"
+            },
+            {
+              "id": 2,
+              "value": "SBS",
+              "slug": "sbs"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "status": 1,
+    "msg": "Sukses",
+    "data": {
+      "id": 5,
+      "title": "What's Wrong with Secretary Kim",
+      "keyword": [
+        "Kimbiseoga Wae Geureolgga",
+        "Why Secretary Kim",
+        "Why Would Secretary Kim Do That"
+      ],
+      "score": "8.1",
+      "type": "Drama",
+      "synopsis": "The series revolves around the narcissistic Lee Young Joon, the vice president of a company run by his family. He is very self-absorbed and thinks highly of himself, so much that he barely acknowledges the people around him. Lee Young Joon has a capable and patient secretary Kim Mi So who has remained by his side and worked diligently for 9 years without any romantic involvement. However, Mi So now wants to set her life & focus on herself so when she decides to resign from her job, hilarious misunderstandings ensue. After 9 years of their strictly-workplace relationship, can it now develop in something more?",
+      "image": "https://ik.imagekit.io/webart/kdrama/jr3Dzf_aH55UsHc4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653365543580",
+      "negara": "korea selatan",
+      "duration": "1 jam 30 menit",
+      "status": "complete",
+      "trailer": "https://v.mydramalist.com/cfe/cfe04034c4af619cfabd5f2c785131d2.mp4",
+      "director": ["Park Joon Hwa"],
+      "taxonomy": [
+        {
+          "id": 1,
+          "label": "Genres",
+          "terms": [
+            {
+              "id": 20,
+              "value": "Action",
+              "slug": "action"
+            },
+            {
+              "id": 21,
+              "value": "Adventure",
+              "slug": "adventure"
+            },
+            {
+              "id": 25,
+              "value": "Romance",
+              "slug": "romance"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Type",
+          "terms": [
+            {
+              "id": 1,
+              "value": "TV Show",
+              "slug": "tv-show"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Series",
+          "terms": [
+            {
+              "id": 1,
+              "value": "My Liberation Notes",
+              "slug": "my-liberation-notes"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "label": "Country",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Korea Selatan",
+              "slug": "korea-selatan"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "label": "Status",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Ongoing",
+              "slug": "ongoing"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "label": "Year",
+          "terms": [
+            {
+              "id": 1,
+              "value": "2020",
+              "slug": "2022"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "label": "Rating",
+          "terms": [
+            {
+              "id": 1,
+              "value": "R-17",
+              "slug": "r-17"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "label": "Hari",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Rabu",
+              "slug": "rabu"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "label": "Original Network",
+          "terms": [
+            {
+              "id": 1,
+              "value": "Netflix",
+              "slug": "netflix"
+            },
+            {
+              "id": 2,
+              "value": "SBS",
+              "slug": "sbs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

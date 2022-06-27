@@ -1,0 +1,1054 @@
+{
+  "status": 1,
+  "msg": "Sukses",
+  "data": {
+    "page": {
+      "now": 5,
+      "total": 130,
+      "prev": 4,
+      "next": 6
+    },
+    "posts": [
+      {
+        "id": 0,
+        "title": "Judul Drama 0",
+        "native_title": "Native Title 0",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 1,
+                "value": "Action",
+                "slug": "action"
+              },
+              {
+                "id": 2,
+                "value": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": 5,
+                "value": "School",
+                "slug": "school"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [
+              {
+                "id": 6,
+                "value": "TV Show",
+                "slug": "tv-show"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Korea selatan",
+                "slug": "korea-selatan"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 10,
+                "value": "2021",
+                "slug": "2021"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [
+              {
+                "id": 11,
+                "value": "15+",
+                "slug": "15+"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Senin",
+                "slug": "senin"
+              },
+              {
+                "id": 8,
+                "value": "Kamis",
+                "slug": "kamis"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 10,
+                "value": "SBS",
+                "slug": "sbs"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Judul Drama 1",
+        "native_title": "Native Title 1",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 2,
+                "value": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": 3,
+                "value": "Romance",
+                "slug": "romance"
+              },
+              {
+                "id": 5,
+                "value": "School",
+                "slug": "school"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [
+              {
+                "id": 6,
+                "value": "TV Show",
+                "slug": "tv-show"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [
+              {
+                "id": 10,
+                "value": "China",
+                "slug": "china"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 11,
+                "value": "2020",
+                "slug": "2020"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [
+              {
+                "id": 9,
+                "value": "SU",
+                "slug": "su"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Senin",
+                "slug": "senin"
+              },
+              {
+                "id": 8,
+                "value": "Kamis",
+                "slug": "kamis"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Netflix",
+                "slug": "netflix"
+              },
+              {
+                "id": 10,
+                "value": "SBS",
+                "slug": "sbs"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Judul Drama 2",
+        "native_title": "Native Title 2",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 1,
+                "value": "Action",
+                "slug": "action"
+              },
+              {
+                "id": 3,
+                "value": "Romance",
+                "slug": "romance"
+              },
+              {
+                "id": 5,
+                "value": "Thriller",
+                "slug": "thriller"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [
+              {
+                "id": 7,
+                "value": "Movie",
+                "slug": "movie"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 9,
+                "value": "2022",
+                "slug": "2022"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 10,
+                "value": "Selasa",
+                "slug": "selasa"
+              },
+              {
+                "id": 8,
+                "value": "Kamis",
+                "slug": "kamis"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 10,
+                "value": "SBS",
+                "slug": "sbs"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Judul Drama 3",
+        "native_title": "Native Title 3",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 1,
+                "value": "Action",
+                "slug": "action"
+              },
+              {
+                "id": 2,
+                "value": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": 3,
+                "value": "Romance",
+                "slug": "romance"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [
+              {
+                "id": 7,
+                "value": "Movie",
+                "slug": "movie"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [
+              {
+                "id": 8,
+                "value": "Turki",
+                "slug": "turki"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 11,
+                "value": "2020",
+                "slug": "2020"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Senin",
+                "slug": "senin"
+              },
+              {
+                "id": 10,
+                "value": "Selasa",
+                "slug": "selasa"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 10,
+                "value": "SBS",
+                "slug": "sbs"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Judul Drama 4",
+        "native_title": "Native Title 4",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 1,
+                "value": "Action",
+                "slug": "action"
+              },
+              {
+                "id": 3,
+                "value": "Romance",
+                "slug": "romance"
+              },
+              {
+                "id": 5,
+                "value": "Thriller",
+                "slug": "thriller"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [
+              {
+                "id": 7,
+                "value": "Movie",
+                "slug": "movie"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 9,
+                "value": "2022",
+                "slug": "2022"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [
+              {
+                "id": 9,
+                "value": "SU",
+                "slug": "su"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Senin",
+                "slug": "senin"
+              },
+              {
+                "id": 11,
+                "value": "Rabu",
+                "slug": "rabu"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Netflix",
+                "slug": "netflix"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Judul Drama 5",
+        "native_title": "Native Title 5",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 1,
+                "value": "Action",
+                "slug": "action"
+              },
+              {
+                "id": 2,
+                "value": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": 3,
+                "value": "Romance",
+                "slug": "romance"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 8,
+                "value": "2019",
+                "slug": "2019"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Senin",
+                "slug": "senin"
+              },
+              {
+                "id": 10,
+                "value": "Selasa",
+                "slug": "selasa"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Netflix",
+                "slug": "netflix"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Judul Drama 6",
+        "native_title": "Native Title 6",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 1,
+                "value": "Action",
+                "slug": "action"
+              },
+              {
+                "id": 2,
+                "value": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": 3,
+                "value": "Romance",
+                "slug": "romance"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [
+              {
+                "id": 11,
+                "value": "Thailand",
+                "slug": "thailand"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 9,
+                "value": "2022",
+                "slug": "2022"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [
+              {
+                "id": 10,
+                "value": "13+",
+                "slug": "13+"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 10,
+                "value": "Selasa",
+                "slug": "selasa"
+              },
+              {
+                "id": 8,
+                "value": "Kamis",
+                "slug": "kamis"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 10,
+                "value": "SBS",
+                "slug": "sbs"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Judul Drama 7",
+        "native_title": "Native Title 7",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 1,
+                "value": "Action",
+                "slug": "action"
+              },
+              {
+                "id": 5,
+                "value": "Slice of Life",
+                "slug": "slice-of-life"
+              },
+              {
+                "id": 5,
+                "value": "Thriller",
+                "slug": "thriller"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [
+              {
+                "id": 8,
+                "value": "Drama",
+                "slug": "drama"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Korea selatan",
+                "slug": "korea-selatan"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 9,
+                "value": "2022",
+                "slug": "2022"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [
+              {
+                "id": 9,
+                "value": "SU",
+                "slug": "su"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 10,
+                "value": "Selasa",
+                "slug": "selasa"
+              },
+              {
+                "id": 8,
+                "value": "Kamis",
+                "slug": "kamis"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 10,
+                "value": "SBS",
+                "slug": "sbs"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Judul Drama 8",
+        "native_title": "Native Title 8",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 1,
+                "value": "Action",
+                "slug": "action"
+              },
+              {
+                "id": 2,
+                "value": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": 3,
+                "value": "Romance",
+                "slug": "romance"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [
+              {
+                "id": 10,
+                "value": "China",
+                "slug": "china"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [
+              {
+                "id": 8,
+                "value": "2019",
+                "slug": "2019"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [
+              {
+                "id": 8,
+                "value": "17+",
+                "slug": "17+"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Senin",
+                "slug": "senin"
+              },
+              {
+                "id": 11,
+                "value": "Rabu",
+                "slug": "rabu"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Netflix",
+                "slug": "netflix"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Judul Drama 9",
+        "native_title": "Native Title 9",
+        "image": "https://i.mydramalist.com/jd5jw_4c.jpg?v=1",
+        "synopsis": "Set in Sanpo Village where more people leave than remain, the three Yeom siblings, Chang Hee, Mi Jung, and Ki Jung, wish to escape from a life rife with uncertainty.\nA mysterious man, Mr. Goo, moves into their neighbourhood. He is a drunkard with the look of someone with many burdens and secrets. His cautious personality and preference for keeping to himself make him the subject of gossip. Mi Jung, the youngest and most timid Yeom sibling, decides to approach him.",
+        "duration": "1 jam 30 menit",
+        "score": "8.1",
+        "director": "kim sul sol",
+        "keyword": "My Liberation Diary , My Liberation Days , My Liberation Journal , Naui Haebangilji , Naeui Haebangilji",
+        "taxonomy": [
+          {
+            "id": 1,
+            "label": "Genres",
+            "terms": [
+              {
+                "id": 2,
+                "value": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": 3,
+                "value": "Romance",
+                "slug": "romance"
+              },
+              {
+                "id": 5,
+                "value": "School",
+                "slug": "school"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Type",
+            "terms": [
+              {
+                "id": 8,
+                "value": "Drama",
+                "slug": "drama"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Country",
+            "terms": [
+              {
+                "id": 8,
+                "value": "Turki",
+                "slug": "turki"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Year",
+            "terms": [null]
+          },
+          {
+            "id": 1,
+            "label": "Rating",
+            "terms": [
+              {
+                "id": 10,
+                "value": "13+",
+                "slug": "13+"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Hari",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Senin",
+                "slug": "senin"
+              },
+              {
+                "id": 8,
+                "value": "Kamis",
+                "slug": "kamis"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "label": "Original Network",
+            "terms": [
+              {
+                "id": 9,
+                "value": "Netflix",
+                "slug": "netflix"
+              },
+              {
+                "id": 11,
+                "value": "jTBC",
+                "slug": "jtbc"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

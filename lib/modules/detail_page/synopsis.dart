@@ -71,7 +71,7 @@ class _DetailInfoState extends State<Synopsis> {
                         },
                         label: Text(_show ? "Less" : "More"),
                         icon:
-                            Icon(_show ? Icons.expand_more : Icons.expand_less),
+                            Icon(_show ? Icons.expand_less : Icons.expand_more),
                       ),
                     ],
                   ),

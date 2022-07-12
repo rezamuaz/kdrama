@@ -1,47 +1,64 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'package:dropdown_button2/dropdown_button2.dart';
+import 'package:kdrama/modules/drama_list/repository/model/drama_original_network_model.dart';
 
-class MultiSelect extends StatelessWidget {
-  final List selectedItems;
-  final Function handleMulti;
-  final List multiList;
-  const MultiSelect({
+class OriginalNetworkSelected extends StatefulWidget {
+  const OriginalNetworkSelected({
     Key? key,
-    required this.handleMulti,
-    required this.selectedItems,
-    required this.multiList,
   }) : super(key: key);
 
   @override
+  State<OriginalNetworkSelected> createState() =>
+      _OriginalNetworkSelectedState();
+}
+
+class _OriginalNetworkSelectedState extends State<OriginalNetworkSelected> {
+  // * JSON options Rating of Drama
+  final String originalNetworkDrama =
+      '[{ "id": "0", "value": "Semua" }, { "id": "1", "value": "Neflix" }, { "id": "2", "value": "SBS" }, { "id": "3", "value": "Iflix" }]';
+  List<String?> selectedItems = [];
+
+  @override
   Widget build(BuildContext context) {
+    // * List Model Type Drama
+    late List<DramaOriginalNetworkModel> items = [];
+    final originalNetworkDramaJson =
+        const JsonDecoder().convert(originalNetworkDrama);
+    items = (originalNetworkDramaJson)
+        .map<DramaOriginalNetworkModel>(
+            (item) => DramaOriginalNetworkModel.fromJson(item))
+        .toList();
+    print(selectedItems.toString());
     return DropdownButtonHideUnderline(
       child: DropdownButton2(
         isExpanded: true,
         hint: Align(
           alignment: AlignmentDirectional.center,
           child: Text(
-            'Select Items',
+            'Rating',
             style: TextStyle(
               fontSize: 14,
               color: Theme.of(context).hintColor,
             ),
           ),
         ),
-        items: multiList.map((item) {
+        items: items.map((DramaOriginalNetworkModel item) {
           return DropdownMenuItem<String>(
-            value: item,
+            value: item.id,
             //disable default onTap to avoid closing menu when selecting an item
             enabled: false,
             child: StatefulBuilder(
               builder: (context, menuSetState) {
-                final isSelected = selectedItems.contains(item);
+                final isSelected = selectedItems.contains(item.id);
                 return InkWell(
                   onTap: () {
                     isSelected
-                        ? selectedItems.remove(item)
-                        : selectedItems.add(item);
+                        ? selectedItems.remove(item.id)
+                        : selectedItems.add(item.id);
                     //This rebuilds the StatefulWidget to update the button's text
-                    handleMulti();
+                    setState(() {});
                     //This rebuilds the dropdownMenu Widget to update the check mark
                     menuSetState(() {});
                   },
@@ -55,7 +72,7 @@ class MultiSelect extends StatelessWidget {
                             : const Icon(Icons.check_box_outline_blank),
                         const SizedBox(width: 16),
                         Text(
-                          item,
+                          item.value.toString(),
                           style: const TextStyle(
                             fontSize: 14,
                           ),
@@ -72,18 +89,20 @@ class MultiSelect extends StatelessWidget {
         value: selectedItems.isEmpty ? null : selectedItems.last,
         onChanged: (value) {},
         buttonHeight: 40,
-        buttonWidth: 140,
+        buttonWidth: 110,
         itemHeight: 40,
+        dropdownWidth: MediaQuery.of(context).size.width,
+        dropdownMaxHeight: MediaQuery.of(context).size.height * 0.6,
         itemPadding: EdgeInsets.zero,
         selectedItemBuilder: (context) {
-          return multiList.map(
+          return items.map(
             (item) {
               return Container(
                 alignment: AlignmentDirectional.center,
                 padding: const EdgeInsets.symmetric(horizontal: 16.0),
-                child: Text(
-                  selectedItems.join(', '),
-                  style: const TextStyle(
+                child: const Text(
+                  "Rating",
+                  style: TextStyle(
                     fontSize: 14,
                     overflow: TextOverflow.ellipsis,
                   ),

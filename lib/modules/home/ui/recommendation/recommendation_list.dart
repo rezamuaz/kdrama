@@ -18,7 +18,7 @@ class RecommendationList extends StatelessWidget {
     return CarouselSlider.builder(
         options: CarouselOptions(
           initialPage: 2,
-          aspectRatio: 16 / 8,
+          aspectRatio: 16 / 10,
           pauseAutoPlayOnTouch: true,
           enlargeCenterPage: true,
           enlargeStrategy: CenterPageEnlargeStrategy.scale,

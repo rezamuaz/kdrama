@@ -113,16 +113,13 @@ class CompletedItem extends StatelessWidget {
                 Flexible(
                   flex: 2,
                   fit: FlexFit.tight,
-                  child: Container(
-                    alignment: Alignment.topCenter,
-                    child: Text(
-                      imageList[index].title.toString(),
-                      maxLines: 2,
-                      textAlign: TextAlign.start,
-                      style: const TextStyle(
-                        fontSize: 12,
-                        overflow: TextOverflow.ellipsis,
-                      ),
+                  child: Text(
+                    imageList[index].title.toString(),
+                    maxLines: 2,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(
+                      fontSize: 12,
+                      overflow: TextOverflow.ellipsis,
                     ),
                   ),
                 ),

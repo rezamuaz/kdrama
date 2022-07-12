@@ -225,7 +225,7 @@ class Ongoing extends StatelessWidget {
           centerTitle: true,
           title: const Text('Drama Ongoing'),
           bottom: PreferredSize(
-              preferredSize: Size.fromHeight(daysTab.preferredSize.width),
+              preferredSize: Size.fromHeight(daysTab.preferredSize.height),
               child: Container(
                   height: 50,
                   padding: const EdgeInsets.symmetric(horizontal: 10),

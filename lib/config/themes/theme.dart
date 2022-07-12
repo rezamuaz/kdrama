@@ -9,7 +9,7 @@ class CustomTheme {
         primaryColorDark: CustomColors.pink100,
         colorScheme: ColorScheme(
             background: CustomColors.background,
-            onBackground: Colors.white,
+            onBackground: Colors.grey.shade50,
             brightness: Brightness.dark,
             primary: Colors.pink.shade300,
             onPrimary: Colors.white,
@@ -19,7 +19,8 @@ class CustomTheme {
             error: Colors.redAccent.shade400,
             onError: Colors.white,
             surface: CustomColors.layer1,
-            onSurface: Colors.white),
+            onSurface: Colors.white,
+            tertiaryContainer: CustomColors.backgroundDark),
         scaffoldBackgroundColor: CustomColors.background,
         primarySwatch: Colors.blue,
         fontFamily: 'Inter',
@@ -40,7 +41,7 @@ class CustomTheme {
     return ThemeData(
         //2
         primaryColor: CustomColors.pink300,
-        scaffoldBackgroundColor: CustomColors.grey800,
+        scaffoldBackgroundColor: Colors.amber,
         fontFamily: 'Montserrat', //3
         buttonTheme: ButtonThemeData(
           // 4

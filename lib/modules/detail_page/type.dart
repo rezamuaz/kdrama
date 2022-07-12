@@ -7,42 +7,16 @@ class Type extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const String type = 'Ongoing';
     List<String> hari = ['Senin', 'Selasa', 'Rabu'];
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 20.0),
-      height: 30,
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          type == 'Completed'
-              ? ElevatedButton(
-                  style: ButtonStyle(
-                      shape: MaterialStateProperty.all<RoundedRectangleBorder>(
-                          RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(10.0))),
-                      backgroundColor: MaterialStateProperty.all(
-                          Colors.purple.shade100.withOpacity(0.3))),
-                  onPressed: () {},
-                  child: const Text("Completed",
-                      style:
-                          TextStyle(fontSize: 13, fontWeight: FontWeight.w400)),
-                )
-              : ElevatedButton(
-                  style: ButtonStyle(
-                      shape: MaterialStateProperty.all<RoundedRectangleBorder>(
-                          RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(10.0))),
-                      backgroundColor: MaterialStateProperty.all(
-                          Colors.blue.shade100.withOpacity(0.3))),
-                  onPressed: () {},
-                  child: const Text("Ongoing",
-                      style:
-                          TextStyle(fontSize: 13, fontWeight: FontWeight.w400)),
-                ),
-          hari.isEmpty
-              ? const SizedBox()
-              : ListView.builder(
+    return hari.isEmpty
+        ? const SizedBox()
+        : Container(
+            padding: const EdgeInsets.symmetric(horizontal: 20.0),
+            height: 30,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                ListView.builder(
                   shrinkWrap: true,
                   reverse: true,
                   padding: EdgeInsets.zero,
@@ -67,8 +41,8 @@ class Type extends StatelessWidget {
                     ),
                   ),
                 ),
-        ],
-      ),
-    );
+              ],
+            ),
+          );
   }
 }

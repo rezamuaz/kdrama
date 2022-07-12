@@ -15,6 +15,7 @@ class HomeLayout extends StatelessWidget {
     return const SafeArea(
       child: ContainerBody(
         children: [
+          SizedBox(height: 20),
           HeaderTitle(),
           Recommendation(),
           Divider(

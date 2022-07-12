@@ -7,7 +7,7 @@ class GenreList extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    List<String> Genre = [
+    List<String> genre = [
       'Mystery',
       'Romance',
       'Drama',
@@ -23,10 +23,10 @@ class GenreList extends StatelessWidget {
         shrinkWrap: true,
         physics: const BouncingScrollPhysics(),
         scrollDirection: Axis.horizontal,
-        itemCount: Genre.length,
+        itemCount: genre.length,
         itemBuilder: (context, index) => TextButton(
           onPressed: () {},
-          child: Text(Genre[index], style: const TextStyle(fontSize: 12)),
+          child: Text(genre[index], style: const TextStyle(fontSize: 12)),
         ),
       ),
     );

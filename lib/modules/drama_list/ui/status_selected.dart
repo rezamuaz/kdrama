@@ -1,26 +1,35 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:dropdown_button2/dropdown_button2.dart';
+import 'package:kdrama/modules/drama_list/repository/model/drama_status_model.dart';
 
-class SingleSelect extends StatelessWidget {
+class StatusSelected extends StatelessWidget {
   final dynamic changeValue;
   final Function handleValue;
-  final List typeList;
   final String label;
   final String defaultName;
-  const SingleSelect(
+  // * JSON options Type Drama
+  final String statusDrama =
+      '[{"id": "0", "value": "Semua"}, {"id": "1", "value": "Completed"}, {"id": "2", "value": "Ongoing"}, {"id": "3", "value": "Upcoming"}]';
+  const StatusSelected(
       {Key? key,
       required this.handleValue,
       required this.changeValue,
-      required this.typeList,
       required this.label,
       required this.defaultName})
       : super(key: key);
-
   @override
   Widget build(BuildContext context) {
+    // * List Model Status Drama
+    late List<DramaStatusModel> statusList = [];
+    final statusDramaJson = const JsonDecoder().convert(statusDrama);
+    statusList = (statusDramaJson)
+        .map<DramaStatusModel>((item) => DramaStatusModel.fromJson(item))
+        .toList();
     return DropdownButtonHideUnderline(
       child: DropdownButton2(
         isExpanded: true,
+        disabledHint: const Text("Status"),
         hint: Row(
           children: [
             Text(
@@ -32,11 +41,11 @@ class SingleSelect extends StatelessWidget {
             ),
           ],
         ),
-        items: typeList
-            .map((item) => DropdownMenuItem<String>(
-                  value: item,
+        items: statusList
+            .map((DramaStatusModel item) => DropdownMenuItem<String>(
+                  value: item.id,
                   child: Text(
-                    item,
+                    item.value.toString(),
                     style: const TextStyle(
                       fontSize: 14,
                       fontWeight: FontWeight.bold,

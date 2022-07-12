@@ -23,6 +23,7 @@ class CustomColors {
   static const grey800 = Color.fromARGB(255, 66, 66, 66);
   static const grey900 = Color.fromARGB(255, 33, 33, 33);
   static const background = Color.fromARGB(255, 43, 55, 80);
+  static const backgroundDark = Color.fromARGB(255, 2, 17, 40);
   static const layer1 = Color.fromARGB(255, 24, 32, 43);
   static const blue = Color.fromARGB(255, 18, 121, 255);
   static const deepblue = Color.fromARGB(255, 24, 32, 43);

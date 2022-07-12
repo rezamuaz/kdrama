@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:kdrama/config/route/route.dart';
 import 'package:kdrama/modules/home/bloc/Recommended/recommendation_bloc.dart';
 import 'package:kdrama/modules/home/bloc/completed/completed_bloc.dart';
 import 'package:kdrama/modules/home/bloc/episode_terbaru/episode_terbaru_bloc.dart';
@@ -39,28 +40,6 @@ class HomePage extends StatelessWidget {
                 ),
             )
           ], child: const HomeLayout())),
-      bottomNavigationBar: const FractionallySizedBox(
-        widthFactor: 1,
-        heightFactor: 0.09,
-        child: GNav(rippleColor: Colors.grey, color: Colors.black, tabs: [
-          GButton(
-            icon: Icons.home,
-            text: 'Home',
-          ),
-          GButton(
-            icon: Icons.favorite,
-            text: 'Likes',
-          ),
-          GButton(
-            icon: Icons.search,
-            text: 'Search',
-          ),
-          GButton(
-            icon: Icons.settings,
-            text: 'Profile',
-          )
-        ]),
-      ),
     );
   }
 }

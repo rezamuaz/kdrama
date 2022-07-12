@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:kdrama/modules/drama_list/multi_select.dart';
-import 'package:kdrama/modules/drama_list/single_select.dart';
+import 'package:kdrama/modules/drama_list/ui/country_selected.dart';
+import 'package:kdrama/modules/drama_list/ui/genre_selected.dart';
+import 'package:kdrama/modules/drama_list/ui/original_network_selected.dart';
+import 'package:kdrama/modules/drama_list/ui/rating_selected.dart';
+import 'package:kdrama/modules/drama_list/ui/status_selected.dart';
+import 'package:kdrama/modules/drama_list/ui/type_selected.dart';
 
 class DramaList extends StatefulWidget {
   const DramaList({Key? key}) : super(key: key);
@@ -10,36 +14,24 @@ class DramaList extends StatefulWidget {
 }
 
 class _DramaListState extends State<DramaList> {
-  final List<String> typeList = [
-    'Semua',
-    'Drama',
-    'Movie',
-    'TV Show',
-  ];
+  String? typeValue;
+  String? statusValue;
 
-  final List<String> multiItem = [
-    'Item1',
-    'Item2',
-    'Item3',
-    'Item4',
-  ];
-
-  List<String> selectedMultiItem = [];
-
-  String typeValue = 'Semua';
-
-  void handleValue(value) {
+  void handleType(value) {
     setState(() {
       typeValue = value as String;
     });
   }
 
-  void handleMulti() {
-    setState(() {});
+  void handleStatus(value) {
+    setState(() {
+      statusValue = value as String;
+    });
   }
 
   @override
   Widget build(BuildContext context) {
+    debugPrint(statusValue.toString());
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
@@ -64,28 +56,28 @@ class _DramaListState extends State<DramaList> {
           ),
           bottom: PreferredSize(
               preferredSize: const Size.fromHeight(kToolbarHeight),
-              child: Container(
+              child: SizedBox(
                   height: 50,
                   child: ListView(
                     scrollDirection: Axis.horizontal,
                     children: [
-                      SingleSelect(
-                        handleValue: handleValue,
+                      //* Radio Button Type Drama
+                      TypeSelected(
+                        handleValue: handleType,
                         changeValue: typeValue,
-                        typeList: typeList,
-                        label: 'Type :',
+                        label: 'Type',
                         defaultName: 'Semua',
                       ),
-                      MultiSelect(
-                          handleMulti: handleMulti,
-                          selectedItems: selectedMultiItem,
-                          multiList: multiItem),
-                      const SizedBox(
-                        child: Text('Test'),
-                      ),
-                      const SizedBox(
-                        child: Text('Test'),
-                      )
+                      //* Selection Genre Drama
+                      const CountrySelected(),
+                      const GenreSelected(),
+                      StatusSelected(
+                          handleValue: handleStatus,
+                          changeValue: statusValue,
+                          label: "Status",
+                          defaultName: "Semua"),
+                      const RatingSelected(),
+                      const OriginalNetworkSelected()
                     ],
                   ))),
         ),

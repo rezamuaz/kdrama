@@ -16,7 +16,7 @@ class CompletedWidget extends StatelessWidget {
           );
         }
         if (state is CompletedLoaded) {
-          return CompletedList(dataList: state.completed, title: 'tamat');
+          return CompletedList(dataList: state.completed, title: 'Tamat');
         }
         return Container();
       },

@@ -25,7 +25,10 @@ class CompletedList extends StatelessWidget {
             onPressed: () {
               context.read<CompletedBloc>().add(CompletedLoadEvent());
             },
-            icon: const Icon(Icons.replay),
+            icon: const Icon(
+              Icons.refresh,
+              size: 25,
+            ),
           ),
           const SizedBox(height: 10),
           const Spacer(flex: 1),
